@@ -25,7 +25,7 @@ I also add some lines to add more flowers.
 
 In this assignment, I need to download OPENAI_KEY from the website (Quickstart tutorial - OpenAI API) and copy the KEY. I would work on Window Powershell through out this assignment. After we run all the requirement, we will open browse and type localhost:5000 to get the screen window. At the box “Enter an animal”, type animal name such dog or cat, we will get four names for animal that is a superhero.
  
-5) Hello to ChatGPT
+5)Hello to ChatGPT
 To run this application, you will need the following:
 An OpenAI API key (available from the OpenAI website)
 A .env file containing your API key in the following format: OPENAI_API_KEY=<your_api_key_here>
